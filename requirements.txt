@@ -1,0 +1,2 @@
+boto3
+box-sdk-gen[jwt]
